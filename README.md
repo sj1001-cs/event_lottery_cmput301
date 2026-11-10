@@ -47,5 +47,4 @@ The app talks to the team's Firebase project through `app/google-services.json`,
 
 The storyboards and mockups from our planning are in `doc/img`, and the generated Javadoc is in `doc`.
 
-![Storyboard](doc/img/StoryboardMockup.png)
 
